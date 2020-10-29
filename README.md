@@ -1,1 +1,1 @@
-# Multilingual news dataset comming soon !!!
+# Multilingual news dataset coming soon !!!
